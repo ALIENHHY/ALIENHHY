@@ -2,7 +2,7 @@
 
 I am a master student majoring Computer Science at The University of Hong Kong (HKU).
 
-My research focuses on LLM, including its safety, optimization, and application.
+I am a LLM learner, my interests mainly focus on its safety, optimization, and application.
 
 ---
 
