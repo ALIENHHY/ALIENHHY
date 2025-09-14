@@ -1,6 +1,8 @@
 ## Hi, I am Haoyang!
 
-I am a master student at The University of Hong Kong (HKU). My research focuses on LLM, including its safety, optimization, and application.
+I am a master student majoring Computer Science at The University of Hong Kong (HKU).
+
+My research focuses on LLM, including its safety, optimization, and application.
 
 ### 🏫 Experience
 
