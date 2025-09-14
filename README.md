@@ -6,7 +6,7 @@ My research focuses on LLM, including its safety, optimization, and application.
 
 ---
 
-### 🏫 Experience
+### Experience
 
 Mater student, [The University of Hong Kong](https://www.hku.hk/) (Sep. 2025 - Current) 
 
