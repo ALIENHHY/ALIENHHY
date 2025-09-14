@@ -4,12 +4,12 @@ I am a master student at The University of Hong Kong (HKU). My research focuses 
 
 ### 🏫 Experience
 
-M.Sc in Computer Science, [The University of Hong Kong](https://www.hku.hk/) (Sep. 2025 - Current) 
+Mater student, [The University of Hong Kong](https://www.hku.hk/) (Sep. 2025 - Current) 
 
 Research Assistant, PR-Lab, [Nanjing University](https://www.nju.edu.cn/) (Mar. 2025 - Current)
  
 Intern, ECO-Lab, [Tencent](https://www.tencent.com/) (Sep. 2024 - Dec. 2024)
 
-B.Eng in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/) (Sep. 2021 - June. 2025)
+Bachelor student, [Nanjing University of Science and Technology](https://www.njust.edu.cn/) (Sep. 2021 - June. 2025)
 
 More details: [My homepage](https://alienhhy.github.io/)
