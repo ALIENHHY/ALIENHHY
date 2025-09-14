@@ -4,6 +4,8 @@ I am a master student majoring Computer Science at The University of Hong Kong (
 
 My research focuses on LLM, including its safety, optimization, and application.
 
+---
+
 ### 🏫 Experience
 
 Mater student, [The University of Hong Kong](https://www.hku.hk/) (Sep. 2025 - Current) 
@@ -13,5 +15,7 @@ Research Assistant, PR-Lab, [Nanjing University](https://www.nju.edu.cn/) (Mar. 
 Intern, ECO-Lab, [Tencent](https://www.tencent.com/) (Sep. 2024 - Dec. 2024)
 
 Bachelor student, [Nanjing University of Science and Technology](https://www.njust.edu.cn/) (Sep. 2021 - June. 2025)
+
+---
 
 More details: [My homepage](https://alienhhy.github.io/)
