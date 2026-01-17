@@ -12,7 +12,7 @@ I am a LLM learner, my interests mainly focus on its safety, optimization, and a
 
 Master student, [The University of Hong Kong](https://www.hku.hk/) (Sep. 2025 - Current)
 
-Research Assistant, TASR-Lab, [The University of Hong Kong](https://www.hku.hk/) (Sept. 2025 - Current)
+Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/) (Sept. 2025 - Current)
 
 Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/) (Mar. 2025 - Current)
  
