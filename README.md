@@ -10,16 +10,16 @@ I am a LLM learner, my interests mainly focus on its safety, optimization, and a
 
 ### Experience
 
-Master student, [The University of Hong Kong](https://www.hku.hk/) (Sep. 2025 - Present)
+M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/) (2025.09 - present)
 
-Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/) (Sept. 2025 - Present)
+Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/) (2025.09 - present)
 
-Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/) (Mar. 2025 - Aug. 2025)
+Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/) (2025.03 - 2025.08)
  
-Intern, ECO-Lab, [Tencent](https://www.tencent.com/) (Sep. 2024 - Dec. 2024)
+Intern, ECO-Lab, [Tencent](https://www.tencent.com/) (2024.09 - 2024.12)
 
-Bachelor student, [Nanjing University of Science and Technology](https://www.njust.edu.cn/) (Sep. 2021 - June. 2025)
+B.Eng. in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/) (2021.09 - 2025.06)
 
 ---
 
-More details: [My homepage](https://alienhhy.github.io/)
+More details: [Haoyang's homepage](https://alienhhy.github.io/)
