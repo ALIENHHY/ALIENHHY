@@ -10,15 +10,15 @@ I am a LLM learner, my interests mainly focus on its safety, optimization, and a
 
 ### Experience
 
-# *2025.09 - present:* M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
+*2025.09 - present:* M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
 
-Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/) (2025.09 - present)
+*2025.09 - present:* Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
 
-Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/) (2025.03 - 2025.08)
+*2025.03 - 2025.08:* Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/)
  
-Intern, ECO-Lab, [Tencent](https://www.tencent.com/) (2024.09 - 2024.12)
+*2024.09 - 2024.12:* Intern, ECO-Lab, [Tencent](https://www.tencent.com/)
 
-B.Eng. in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/) (2021.09 - 2025.06)
+*2021.09 - 2025.06:* B.Eng. in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
 
 ---
 
