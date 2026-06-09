@@ -10,7 +10,7 @@ I am a LLM learner, my interests mainly focus on its safety, optimization, and a
 
 ### Experience
 
-M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/) (2025.09 - present)
+# *2025.09 - present:* M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
 
 Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/) (2025.09 - present)
 
