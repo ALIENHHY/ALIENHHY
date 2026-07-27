@@ -1,10 +1,6 @@
 ## Hi, I am Haoyang!
 
-I am a master student majoring Computer Science at The University of Hong Kong (HKU).
-
-I am a research assistant at [TASR-Lab@HKU](https://github.com/HKU-TASR).
-
-I am a LLM learner, my interests mainly focus on its safety, optimization, and application.
+I am a M.Sc. CS student & RA at [TASR-Lab@HKU](https://github.com/HKU-TASR), The University of Hong Kong (HKU).
 
 ---
 
