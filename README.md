@@ -1,14 +1,16 @@
 ## Hi, I am Haoyang!
 
-I am a M.Sc. CS student & RA at [TASR-Lab@HKU](https://github.com/HKU-TASR), The University of Hong Kong (HKU).
+I am a Ph.D. in CS at [TASR-Lab@HKU](https://github.com/HKU-TASR), The University of Hong Kong (HKU).
 
 ---
 
 ### Experience
 
-*2025.09 - present:* M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
+*2026.10 - Present:* Ph.D. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
 
-*2025.09 - present:* Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
+*2025.09 - 2026.12:* M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
+
+*2025.09 - 2026.09:* Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
 
 *2025.03 - 2025.08:* Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/)
  
