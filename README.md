@@ -6,7 +6,7 @@ I am a Ph.D. in CS at [TASR-Lab@HKU](https://github.com/HKU-TASR), The Universit
 
 ### Experience
 
-*2026.10 - Present:* Ph.D. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
+*2026.10 - present:* Ph.D. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
 
 *2025.09 - 2026.12:* M.Sc. in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
 
