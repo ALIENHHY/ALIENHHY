@@ -1,6 +1,6 @@
 ## Hi, I am Haoyang!
 
-I am a Ph.D. in CS at [TASR-Lab@HKU](https://github.com/HKU-TASR), The University of Hong Kong (HKU).
+I am a Ph.D. student in Computer Science at [TASR-Lab@HKU](https://github.com/HKU-TASR), The University of Hong Kong (HKU).
 
 ---
 
